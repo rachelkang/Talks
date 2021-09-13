@@ -3,6 +3,7 @@ The central hub for all my tech talks, presentations, and demos!
 
 | Date | Talk | Links |
 |------|------|-------|
+| 2021-09-02 | **Accessibility with Rachel Kang** <br> @ Xamarin / .NET MAUI Community Standup | [YouTube](https://www.youtube.com/watch?v=sm6N4HQ_5iA&t=1042s) |
 | 2021-08-27 | **Build Cross-Platform Apps with .NET MAUI** <br> @ Microsoft Student Ambassadors | |
 | 2021-08-20 | **The Journey to Accessible Apps** <br> @ Microsoft Student Ambassadors | |
 | 2021-06-03 | **Hello World: Mobile Apps and Accessibility** <br> @ Microsoft LearnTV | [Channel 9](https://channel9.msdn.com/Shows/Hello-World/Hello-World-Thursday-June-3-2021) and [YouTube](https://www.youtube.com/watch?v=rxNjA-V19Sg) |
