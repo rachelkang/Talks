@@ -3,6 +3,7 @@ The central hub for all my tech talks, presentations, and demos!
 
 | Date | Talk | Links |
 |------|------|-------|
+| 2022-08-09 | **Creating Accessible Apps with .NET MAUI** <br> @ .NET Conf: Focus on MAUI | [YouTube](https://www.youtube.com/watch?v=sU_sR2eL2JM) |
 | 2022-06-20 | **Developing inclusive mobile apps** <br> @ UWC Samsung Future Innovation Lab | |
 | 2022-03-18 | **Diving into MAUI with the Women of .NET** <br> @ Women of .NET | [YouTube](https://www.youtube.com/watch?v=nlyC-lzSjWk) |
 | 2021-10-01 | **Building Accessible Apps with .NET MAUI** <br> @ Xamarin Expert Day | [YouTube](https://www.youtube.com/watch?v=-azSS_aFtsM) |
