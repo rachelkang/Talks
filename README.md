@@ -1,6 +1,7 @@
 # Talks
 The central hub for all my tech talks, presentations, and demos!
-All YouTube videos linked below can also be found in the following playlist: https://www.youtube.com/playlist?list=PL_vFETD8Zp4gOHugSCvX7zUw9fFIJUr7V.
+
+All YouTube videos linked below can also be found in [this playlist](https://www.youtube.com/playlist?list=PL_vFETD8Zp4gOHugSCvX7zUw9fFIJUr7V).
 
 | Date | Talk | Links |
 |------|------|-------|
