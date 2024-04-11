@@ -1,6 +1,8 @@
 # Talks
 The central hub for all my tech talks, presentations, and demos!
 
+All YouTube videos linked below can also be found in [this playlist](https://www.youtube.com/playlist?list=PL_vFETD8Zp4gOHugSCvX7zUw9fFIJUr7V).
+
 | Date | Talk | Links |
 |------|------|-------|
 | 2024-04-11 | **The Journey to Accessible Apps** <br> @ UWC Samsung Future Innovation Lab | |
