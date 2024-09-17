@@ -5,6 +5,7 @@ All YouTube videos linked below can also be found in [this playlist](https://www
 
 | Date | Talk | Links |
 |------|------|-------|
+| 2024-08-06 | **What's New & Next for .NET MAUI** <br> @ VS Live Redmond | [YouTube](https://www.youtube.com/watch?v=f6ulV7N32Pc)|
 | 2024-04-11 | **The Journey to Accessible Apps** <br> @ UWC Samsung Future Innovation Lab | |
 | 2024-03-13 | **.NET MAUI roadmap and discussion** <br> @ MVP Summit | |
 | 2024-01-26 | **The Journey to Accessible Apps** <br> @ MAUI Hack Day (Australia) | [YouTube](https://youtu.be/MbffLTz6x0g) |
