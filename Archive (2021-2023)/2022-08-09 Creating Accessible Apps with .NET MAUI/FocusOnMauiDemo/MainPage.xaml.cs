@@ -1,0 +1,39 @@
+﻿namespace FocusOnMauiDemo;
+
+public partial class MainPage : ContentPage
+{
+	int count = 0;
+
+	public MainPage()
+	{
+		InitializeComponent();
+
+		var tapGestureRecognizer = new TapGestureRecognizer();
+		tapGestureRecognizer.Tapped += (s, e) =>
+		{
+			count++;
+
+			if (count == 1)
+				CounterLbl.Text = $"Clicked {count} time";
+			else
+				CounterLbl.Text = $"Clicked {count} times";
+
+			SemanticScreenReader.Announce(CounterLbl.Text);
+		};
+		CounterLbl.GestureRecognizers.Add(tapGestureRecognizer);
+	}
+
+	//private void OnCounterClicked(object sender, EventArgs e)
+	//{
+	//	count++;
+
+	//	if (count == 1)
+	//		CounterBtn.Text = $"Clicked {count} time";
+	//	else
+	//		CounterBtn.Text = $"Clicked {count} times";
+
+	//	SemanticScreenReader.Announce(CounterBtn.Text);
+	//}
+}
+
+

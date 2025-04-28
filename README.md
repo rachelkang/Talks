@@ -7,11 +7,15 @@ All YouTube videos linked below can also be found in [this playlist](https://www
 
 | Date | Talk | Links |
 |------|------|-------|
+| 2025-05-23 | _Coming soon_ <br> @ NDC Oslo | |
+| 2025-05-20 | _Coming soon_ <br> @ Norwegian .NET User Group | |
+| 2025-04-23 | **Hybrid Web and Native apps with .NET MAUI and Blazor** <br> @ Cleveland C# User Group | |
+| 2025-03-13 | **What's next in .NET MAUI & Blazor Hybrid** <br> @ MVP Summit 2025 | |
 | 2024-11-19 | **What's New for .NET MAUI and Blazor Hybrid** <br> @ VS Live Orlando | |
 | 2024-11-19 | **Keynote: The Cloud-Native, Run Anywhere Future of .NET 9 Is Here!** <br> @ VS Live Orlando | |
 | 2024-11-12 | **What's New in .NET MAUI in .NET 9** <br> @ .NET Conf 2024 | [YouTube](https://youtu.be/4cosSX7ldPs?si=Xks7GGFQQwQD5NGM)|
 | 2024-08-06 | **What's New & Next for .NET MAUI** <br> @ VS Live Redmond | [YouTube](https://www.youtube.com/watch?v=f6ulV7N32Pc)|
-| 2024-03-13 | **.NET MAUI roadmap and discussion** <br> @ MVP Summit | |
+| 2024-03-13 | **.NET MAUI roadmap and discussion** <br> @ MVP Summit 2024 | |
 | 2022-03-18 | **Diving into MAUI with the Women of .NET** <br> @ Women of .NET | [YouTube](https://www.youtube.com/watch?v=nlyC-lzSjWk) |
 | 2021-08-27 | **Build Cross-Platform Apps with .NET MAUI** <br> @ Microsoft Student Ambassadors | |
 
@@ -41,6 +45,10 @@ All YouTube videos linked below can also be found in [this playlist](https://www
 
 | Date | Talk | Links |
 |------|------|-------|
+| 2025-04-10 | **Next in .NET 10 and Visual Studio** <br> @ .NET MAUI Community Standup | [YouTube](https://www.youtube.com/live/WKqqdMmD6IA?si=_iqrrCBV-uPv5pn9) |
+| 2025-03-06 | **Agent Maui: Copilot Pro-tips for devs** <br> @ .NET MAUI Community Standup | [YouTube](https://www.youtube.com/live/sCgvmPNIzbM?si=bm73tUk6g9JzTHb_) |
+| 2025-02-06 | **Let Copilot Fix Your XAML** <br> @ .NET MAUI Community Standup | [YouTube](https://www.youtube.com/live/ghKAZh9-dO4?si=5sgAptOOFcyt59IR) |
+| 2025-01-09 | **2025 New Year Kickoff** <br> @ .NET MAUI Community Standup | [YouTube](https://www.youtube.com/live/WeSjcHQ1V8M?si=RL66BmcDrI2YuvsL) |
 | 2024-12-05 | **.NET MAUI 2024 Wrapped!** <br> @ .NET MAUI Community Standup | [YouTube](https://www.youtube.com/live/n6ossI6YICQ?si=1AlSvlvW_EF-VJao) |
 | 2024-11-07 | **.NET MAUI in 9 and Syncfusion Toolkit for MAUI** <br> @ .NET MAUI Community Standup | [YouTube](https://www.youtube.com/live/zvo0lvksqkU?si=-_qSj2MxgWc8DADb) |
 | 2024-10-03 | **.NET MAUI 4, 9, 12, 16, 18, 35** <br> @ .NET MAUI Community Standup | [YouTube](https://www.youtube.com/live/lSZ10eoq_qQ?si=BKtFfxRg0CiRhMAC) |

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FutureInnovationLabDemo.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0" >
+            <Label Text="Welcome to my Xamarin Forms accessibility sample!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+        <Label Text="About Me" FontSize="20" FontAttributes="Bold" />
+        <Image Source="xamarin_logo.png" AutomationProperties.IsInAccessibleTree="True" AutomationProperties.Name="xamarin logo" />
+        <Label Text="Hello! I'm Rachel from the Xamarin Forms team and am here to chat with you about making our apps accessible." />
+        <Label Text="It feels awesome to be here with the awesome students of the Future-Innovation Lab. Thank you so much for having me!" />
+
+        <Label Text="Stay in touch!" FontSize="20" FontAttributes="Bold" />
+        <Button Text="Follow me on Twitter" Clicked="Button_Clicked" />
+    </StackLayout>
+
+</ContentPage>
