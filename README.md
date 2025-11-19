@@ -3,7 +3,7 @@ The central hub for all my tech talks, presentations, and demos!
 
 All YouTube videos linked below can also be found in [this playlist](https://www.youtube.com/playlist?list=PL_vFETD8Zp4gOHugSCvX7zUw9fFIJUr7V).
 
-## .NET & Visual Studio
+## .NET & Visual Studio Talks
 
 | Date | Talk | Links |
 |------|------|-------|
@@ -20,7 +20,7 @@ All YouTube videos linked below can also be found in [this playlist](https://www
 | 2022-03-18 | **Diving into MAUI with the Women of .NET** <br> @ Women of .NET | [YouTube](https://www.youtube.com/watch?v=nlyC-lzSjWk) |
 | 2021-08-27 | **Build Cross-Platform Apps with .NET MAUI** <br> @ Microsoft Student Ambassadors | |
 
-### Accessibility
+### Accessibility Talks
 
 | Date | Talk | Links |
 |------|------|-------|
@@ -42,10 +42,12 @@ All YouTube videos linked below can also be found in [this playlist](https://www
 | 2021-02-24 | **Developing inclusive mobile apps** <br> @ Cape Town MS Developer User Group | [YouTube](https://www.youtube.com/watch?v=3YYi-hTJhFU) |
 
 
-### Community Standup
+### Community Live Streams
 
 | Date | Talk | Links |
 |------|------|-------|
+| 2025-09-10 | **Visual Studio 2026 Insiders Release Party 🎉** <br> @ Visual Studio Toolbox Live | [YouTube](https://www.youtube.com/watch?v=RUd_RO1OT1A&list=PLReL099Y5nReWwlUgypSKwptZm3ljLOhX&index=11) |
+| 2025-05-01 | **.NET MAUI: A contributor’s story** <br> @ .NET MAUI Community Standup | [YouTube](https://www.youtube.com/live/lE9rkX0egGg?si=YbeuCxKk4-ZbNCwu) |
 | 2025-05-01 | **.NET MAUI: A contributor’s story** <br> @ .NET MAUI Community Standup | [YouTube](https://www.youtube.com/live/lE9rkX0egGg?si=YbeuCxKk4-ZbNCwu) |
 | 2025-04-10 | **Next in .NET 10 and Visual Studio** <br> @ .NET MAUI Community Standup | [YouTube](https://www.youtube.com/live/WKqqdMmD6IA?si=_iqrrCBV-uPv5pn9) |
 | 2025-03-06 | **Agent Maui: Copilot Pro-tips for devs** <br> @ .NET MAUI Community Standup | [YouTube](https://www.youtube.com/live/sCgvmPNIzbM?si=bm73tUk6g9JzTHb_) |
