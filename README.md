@@ -3,12 +3,13 @@ The central hub for all my tech talks, presentations, and demos!
 
 All YouTube videos linked below can also be found in [this playlist](https://www.youtube.com/playlist?list=PL_vFETD8Zp4gOHugSCvX7zUw9fFIJUr7V).
 
-## .NET MAUI
+## .NET & Visual Studio
 
 | Date | Talk | Links |
 |------|------|-------|
-| 2025-05-23 | _Coming soon_ <br> @ NDC Oslo | |
-| 2025-05-20 | _Coming soon_ <br> @ Norwegian .NET User Group | |
+| 2025-11-23 | ​**Keynote: Welcome to Visual Studio 2026** <br> @ .NET Conf 2025 | [YouTube](https://www.youtube.com/live/YDhJ953D6-U?si=3ytWZJUBucOMRxS3&t=4213) |
+| 2025-05-23 | ​**What’s New & Next for .NET MAUI and Blazor Hybrid​** <br> @ NDC Oslo | [YouTube](https://www.youtube.com/watch?v=r6UCJ3mkD_c&list=PL_vFETD8Zp4gOHugSCvX7zUw9fFIJUr7V&index=2) |
+| 2025-05-20 | **Building intelligent .NET MAUI apps, intelligently**​ <br> @ Norwegian .NET User Group | |
 | 2025-04-23 | **Hybrid Web and Native apps with .NET MAUI and Blazor** <br> @ Cleveland C# User Group | |
 | 2025-03-13 | **What's next in .NET MAUI & Blazor Hybrid** <br> @ MVP Summit 2025 | |
 | 2024-11-19 | **What's New for .NET MAUI and Blazor Hybrid** <br> @ VS Live Orlando | |
@@ -45,6 +46,7 @@ All YouTube videos linked below can also be found in [this playlist](https://www
 
 | Date | Talk | Links |
 |------|------|-------|
+| 2025-05-01 | **.NET MAUI: A contributor’s story** <br> @ .NET MAUI Community Standup | [YouTube](https://www.youtube.com/live/lE9rkX0egGg?si=YbeuCxKk4-ZbNCwu) |
 | 2025-04-10 | **Next in .NET 10 and Visual Studio** <br> @ .NET MAUI Community Standup | [YouTube](https://www.youtube.com/live/WKqqdMmD6IA?si=_iqrrCBV-uPv5pn9) |
 | 2025-03-06 | **Agent Maui: Copilot Pro-tips for devs** <br> @ .NET MAUI Community Standup | [YouTube](https://www.youtube.com/live/sCgvmPNIzbM?si=bm73tUk6g9JzTHb_) |
 | 2025-02-06 | **Let Copilot Fix Your XAML** <br> @ .NET MAUI Community Standup | [YouTube](https://www.youtube.com/live/ghKAZh9-dO4?si=5sgAptOOFcyt59IR) |
