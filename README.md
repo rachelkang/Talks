@@ -7,6 +7,8 @@ All YouTube videos linked below can also be found in [this playlist](https://www
 
 | Date | Talk | Links |
 |------|------|-------|
+| 2026-11-11 | **The State of AI in Visual Studio** <br> @ .NET Conf 2026 | [YouTube](https://www.youtube.com/watch?v=CnV8B-ER67k) |
+| 2026-03-25 | **The Future of Copilot in Visual Studio** <br> @ MVP Summit 2026 | |
 | 2025-11-23 | ​**Keynote: Welcome to Visual Studio 2026** <br> @ .NET Conf 2025 | [YouTube](https://www.youtube.com/live/YDhJ953D6-U?si=3ytWZJUBucOMRxS3&t=4213) |
 | 2025-05-23 | ​**What’s New & Next for .NET MAUI and Blazor Hybrid​** <br> @ NDC Oslo | [YouTube](https://www.youtube.com/watch?v=r6UCJ3mkD_c&list=PL_vFETD8Zp4gOHugSCvX7zUw9fFIJUr7V&index=2) |
 | 2025-05-20 | **Building intelligent .NET MAUI apps, intelligently**​ <br> @ Norwegian .NET User Group | |
